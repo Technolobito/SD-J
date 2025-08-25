@@ -1,8 +1,8 @@
-> 🌧 Versión actual: ^0.5
+> 🌧 Versión actual: ^1.0.5
 
-<h1 align="center">💣 SD-J-Bot</p>
+<h1 align="center">💣 Megumin Bot</p>
 <p>
-        <img src= "https://files.catbox.moe/jyj3qj.jpg">
+        <img src= "https://files.catbox.moe/mwi0gz.jpg">
     </p>
 
 --- 
