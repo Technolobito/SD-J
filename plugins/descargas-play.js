@@ -34,7 +34,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     const vistas = formatViews(views);
     const canal = author.name ? author.name : 'Desconocido';
         const infoMessage = `
-*𖹭.╭╭ִ╼࣪━ִﮩ٨ـﮩ♡̫𝗆𝖾𝗀֟፝𝗎꯭𝗆𝗂꯭𝗇𖦹ׅ♡ִ̫ﮩ٨ـﮩ━ִ╾࣪╮╮.𖹭*
+*𖹭.╭╭ִ╼࣪━ִﮩ٨ـﮩ♡̫SD-J♡ִ̫ﮩ٨ـﮩ━ִ╾࣪╮╮.𖹭*
 > ♡ *Título:* ${title || 'Desconocido'}
 *°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°*
 > ♡ *Duración:* ${timestamp || 'Desconocido'}
