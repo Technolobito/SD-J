@@ -1,7 +1,7 @@
 {
-"name": "SD-J-Bot",
+"name": "Megumin-Bot-MD",
 "version": "1.0.5",
-"description": "El Bot Más Kwaii De WhatsApp",
+"description": "El Bot Más Explosivo De WhatsApp",
 "main": "index.js",
 "type": "module",
 "directories": {
@@ -16,20 +16,20 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/Technolobito/SD-J",
+"homepage": "https://github.com/David-Chian/Megumin-Bot-MD",
 "author": {
-"name": "Technolobito"
+"name": "David-Chian"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Technolobito/SD-J.git"
+"url": "git+https://github.com/David-Chian/Megumin-Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/Technolobito/SD-J/issues"
+"url": "https://github.com/David-Chian/Megumin-Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "^6.7.18",
+"@whiskeysockets/baileys": "github:nstar-y/bail",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",

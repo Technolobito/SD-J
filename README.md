@@ -1,11 +1,11 @@
-> 🌧 Versión actual: ^0.5
+> 🌧 Versión actual: ^1.0.5
 
-<h1 align="center">💣 SD-J-Bot</p>
+<h1 align="center">💣 Megumin Bot</p>
 <p>
-        <img src= "https://files.catbox.moe/jyj3qj.jpg">
+        <img src= "https://files.catbox.moe/mwi0gz.jpg">
     </p>
 
---- 
+---
 
 ## Descripción
 
@@ -106,11 +106,15 @@ Inicia el bot nuevamente:
 
 ---
 
-### **`🪐 COLABORADOR`**
-<a
-href="https://github.com/DevAlexJs"><img src="https://github.com/DevAlexJs.png" width="80" height="80" alt="Alexiu"/></a> <a
-href="https://github.com/CheirZ"><img src="https://github.com/CheirZ.png" width="80" height="80" alt="Miguel"/></a>
+### **`🪐 COLABORADORES`**
+<a href="https://github.com/David-Chian/Megumin-Bot-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
+</a>
 
 ### **`👑 CREADOR`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="150" height="150" alt="David"/></a>
+href="https://github.com/Technolobito"><img src="https://github.com/Technolobito.png" width="130" height="130" alt="Lobito"/></a>
+
+## **`⭐ CRÉDITOS`**
+<a
+href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>

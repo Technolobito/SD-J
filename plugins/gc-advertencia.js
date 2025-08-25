@@ -6,7 +6,7 @@ const handler = async (m, {conn, text, command, usedPrefix}) => {
     who = m.mentionedJid[0] ?
       m.mentionedJid[0] :
       m.quoted ?
-      await m.quoted.sender :
+      m.quoted.sender :
       text;
   } else who = m.chat;
   const user = global.db.data.users[who];

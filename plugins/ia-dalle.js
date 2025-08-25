@@ -1,3 +1,5 @@
+// - OfcKing >> https://github.com/OfcKing
+
 import axios from 'axios';
 
 const handler = async (m, { conn, args }) => {

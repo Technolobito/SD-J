@@ -15,14 +15,14 @@ const require = createRequire(__dirname)
 const { name, description, author, version } = require(join(__dirname, './package.json'))
 const rl = createInterface(process.stdin, process.stdout)
 
-cfonts.say('SD-J', {
+cfonts.say('Megumin', {
   font: 'block',
   align: 'center',
-  colors: ['yellow', 'magenta'],
+  colors: ['blue', 'cyan'],
   gradient: ['magenta', 'yellow']
 })
 
-cfonts.say('Made With Technolobito', {
+cfonts.say('Made With David-Chian', {
   font: 'console',
   align: 'center',
   colors: ['cyan', 'magenta', 'yellow']
@@ -34,7 +34,7 @@ function start(file) {
   if (isRunning) return
   isRunning = true
 
-  let args = [join(__dirname, 'SD-J', file), ...process.argv.slice(2)]
+  let args = [join(__dirname, 'megumin', file), ...process.argv.slice(2)]
   cfonts.say([process.argv[0], ...args].join(' '), {
     font: 'console',
     align: 'center',
