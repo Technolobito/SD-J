@@ -18,7 +18,7 @@ const rl = createInterface(process.stdin, process.stdout)
 cfonts.say('SD-J', {
   font: 'block',
   align: 'center',
-  colors: ['yellow', 'orange'],
+  colors: ['yellow', 'magenta'],
   gradient: ['magenta', 'yellow']
 })
 
