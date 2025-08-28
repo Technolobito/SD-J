@@ -68,8 +68,7 @@ global.ofcgp = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficia
 global.gp1 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K ' //Grupo de Kotori Bot
 global.gp2 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K'//Grupo de enlaces
 global.comunidad1 = 'https://chat.whatsapp.com/DWQb1xZClyR98ogvwI3qae' //Comunidad Megumin
-global.channel = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu 
-' //Canal Oficial
+global.channel = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Canal Oficial
 global.channel2 = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Canal de Legends
 global.yt = 'https://www.youtube.com/@Technolobito' //Canal De Youtube
 global.md = 'https://github.com/Technolobito/SD-J' //Github Oficial
