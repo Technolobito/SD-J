@@ -47,7 +47,7 @@ global.titulowm = 'SD-J';
 global.titulowm2 = `͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞`
 global.igfg = 'ᥫᩣTechnolobito⋆̟(◣_◢)凸'
 global.botname = '⏤͟͞ू⃪ ፝͜⁞SD-J✰⃔࿐'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥲ᥎іძ ᥴһіᥲᥒ ❀'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Technobito'
 global.textbot = '⏤͟͞ू⃪ ፝͜⁞SD-J࿐ : ᥫᩣTechnolobito⋆̟(◣_◢)凸'
 global.gt = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
 global.namechannel = '⏤͟͞ू⃪ ፝͜⁞SD-J✰⃔࿐/ᥫᩣTechnolobito⋆̟(◣_◢)凸'
@@ -64,15 +64,16 @@ global.logo = 'https://files.catbox.moe/magmik.jpg'
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '⏤͟͞ू⃪ ፝͜⁞SD-J✰⃔࿐', orderTitle: 'Bang', thumbnailUrl: logo, sellerJid: '0@s.whatsapp.net'}}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.ofcgp = 'https://chat.whatsapp.com/F4QEFF2Hn4102NdbPJ2ZOi' //Grupo Oficial De Megumin
-global.gp1 = 'https://chat.whatsapp.com/DSz2abnPgfE4IzZjynQLu3' //Grupo de Kotori Bot
-global.gp2 = 'https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt'//Grupo de enlaces
+global.ofcgp = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Megumin
+global.gp1 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K ' //Grupo de Kotori Bot
+global.gp2 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K'//Grupo de enlaces
 global.comunidad1 = 'https://chat.whatsapp.com/DWQb1xZClyR98ogvwI3qae' //Comunidad Megumin
-global.channel = 'https://whatsapp.com/channel/0029VaqAtuIK0IBsHYXtvA3e' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029Vb7Ji66KbYMTYLU9km3p' //Canal de Legends
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
-global.md = 'https://github.com/David-Chian/Megumin-Bot-MD' //Github Oficial
-global.correo = 'noisebot@gmail.com'
+global.channel = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu 
+' //Canal Oficial
+global.channel2 = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Canal de Legends
+global.yt = 'https://www.youtube.com/@Technolobito' //Canal De Youtube
+global.md = 'https://github.com/Technolobito/SD-J' //Github Oficial
+global.correo = 'technolobito@gmail.com'
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
