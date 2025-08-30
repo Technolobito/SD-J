@@ -52,22 +52,22 @@ global.namechannel = '⏤͟͞ू⃪ ፝͜⁞SD-J✰⃔࿐/ᥫᩣTechnolobito⋆�
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
-global.imagen1 = 'https://files.catbox.moe/6lhjit.jpg'
-global.imagen2 = 'https://files.catbox.moe/bm0q3s.jpg'
-global.imagen3 = 'https://files.catbox.moe/zrbazr.jpg'
-global.imagenadult = 'https://files.catbox.moe/3dbuvw.jpg'
-global.logo = 'https://files.catbox.moe/magmik.jpg'
+global.imagen1 = 'https://files.catbox.moe/37s1nv.jpg'
+global.imagen2 = 'https://files.catbox.moe/a1gjbp.jpg'
+global.imagen3 = 'https://files.catbox.moe/aqdj44.jpg'
+global.imagenadult = 'https://files.catbox.moe/n5goe4.jpg'
+global.logo = 'https://files.catbox.moe/a1gjbp.jpg'
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '⏤͟͞ू⃪ ፝͜⁞SD-J✰⃔࿐', orderTitle: 'Bang', thumbnailUrl: logo, sellerJid: '0@s.whatsapp.net'}}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.ofcgp = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Megumin
-global.gp1 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K ' //Grupo de Kotori Bot
-global.gp2 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K'//Grupo de enlaces
-global.comunidad1 = 'https://chat.whatsapp.com/DWQb1xZClyR98ogvwI3qae' //Comunidad Megumin
-global.channel = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Canal Oficial
-global.channel2 = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Canal de Legends
+global.ofcgp = 'https://chat.whatsapp.com/EK0atgyXGUx1ttS38QC9lJ' //Grupo Oficial De SD-J
+global.gp1 = 'https://chat.whatsapp.com/CvqRcJUOkjIAjAQuYLrpX4?mode=ems_copy_t' //grupo ofc 2 de murder dornes z
+global.gp2 = 'https://chat.whatsapp.com/CvqRcJUOkjIAjAQuYLrpX4?mode=ems_copy_t'//Grupo de enlaces
+global.comunidad1 = 'https://chat.whatsapp.com/EJEp6zd04nV5WF8mPOfNLe' //Comunidad Murder drones
+global.channel = 'https://whatsapp.com/channel/0029VakLSyb7DAWruqa3jn22' //Canal Oficial
+global.channel2 = 'https://whatsapp.com/channel/0029VaemWTnDp2QB1SRza21G' //Canal de Legends
 global.yt = 'https://www.youtube.com/@Technolobito' //Canal De Youtube
 global.md = 'https://github.com/Technolobito/SD-J' //Github Oficial
 global.correo = 'technolobito@gmail.com'
